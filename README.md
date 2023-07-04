@@ -55,8 +55,8 @@ The game of the MASM, by the MASM, for the MASM.
 HITLERIN und PANZER Projekt
 
 Member List:
-- [Peter130848](https://github.com/Peter130848)
-- [Sunny (Cing-Chen)](https://github.com/Cing-Chen)
+- [Peter (PeterXLin)](https://github.com/PeterXLin)
+- [Sunny (yxhong-tw)](https://github.com/yxhong-tw)
 - [Mibudin (Mibudin)](https://github.com/Mibudin)
 - [qswdqswd](https://github.com/qswdqswd)
 
